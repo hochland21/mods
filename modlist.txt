@@ -78,3 +78,4 @@ oculus-mc1.20.1-1.7.0.jar
 sliceanddice-forge-3.2.0.jar
 kotlinforforge-4.10.0-all.jar
 cc-tweaked-1.20.1-forge-1.110.3.jar
+cccbridge-mc1.20.1-forge-1.6.3.jar
